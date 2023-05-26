@@ -1,0 +1,48 @@
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe.config
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.pdb
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csprojAssemblyReference.cache
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.Properties.Resources.resources
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.GenerateResource.cache
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.CoreCompileInputs.cache
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.exe
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.pdb
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe.config
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.pdb
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csprojAssemblyReference.cache
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.Properties.Resources.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.exe
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.pdb
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmPoyecto.resources
+C:\Users\oweno\source\repos\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmDatos.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmPoyecto.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmDatos.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.Pruebas.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe.config
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.pdb
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csprojAssemblyReference.cache
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmPoyecto.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmDatos.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.Properties.Resources.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.Pruebas.resources
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.exe
+C:\Users\gusta\Documents\Clases 6toSem\simulacion\New folder (2)\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.pdb
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe.config
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.exe
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\bin\Debug\Team_Proyect_Sim.pdb
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.AssemblyReference.cache
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.SuggestedBindingRedirects.cache
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmPoyecto.resources
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.frmDatos.resources
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.Properties.Resources.resources
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.Pruebas.resources
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.GenerateResource.cache
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.csproj.CoreCompileInputs.cache
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.exe
+C:\Users\JairU\Downloads\Team_Proyect_Sim\Team_Proyect_Sim\obj\Debug\Team_Proyect_Sim.pdb
